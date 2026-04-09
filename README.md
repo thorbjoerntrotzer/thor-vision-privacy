@@ -12,6 +12,6 @@ All data is stored exclusively on the user's local Raspberry Pi within their pri
 The app is used solely for private monitoring of the user's own property and vehicles.
 
 ## Contact
-tb.phmuc@gmail.com
+thorbjoern.trotzer@googlemail.com
 
 Last updated: April 2026
